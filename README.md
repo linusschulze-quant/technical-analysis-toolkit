@@ -23,7 +23,7 @@ This repository provides reusable indicator functions and well-documented notebo
 
 ```text
 technical-analysis-toolkit/
-├── src/                        # Core indicator logic & reusable functions
+├── src/                        # Setup function
 ├── notebooks/
 │   ├── Technical_Analysis/     # Indicator notebooks (EMA, MACD, SMA, Candlesticks) & Sharpe Ratio
 │   └── Performance_Analysis/   # Benchmark comparison
