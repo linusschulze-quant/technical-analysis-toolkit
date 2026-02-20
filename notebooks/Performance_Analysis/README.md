@@ -1,6 +1,6 @@
-# 📓 Notebooks
+# 📓 Notebooks / Performance_Analysis
 
-This folder contains all Jupyter notebooks used for systematic technical stock analysis.
+This folder contains all Jupyter notebooks for analyzing performance and comparing it to the S&P 500
 
 The notebooks are modular, well-documented, and designed to be used independently or as part of a complete market performance and risk evaluation pipeline.
 
