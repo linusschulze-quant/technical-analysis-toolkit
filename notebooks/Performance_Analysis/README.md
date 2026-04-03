@@ -6,6 +6,8 @@ The notebooks are modular, well-documented, and designed to be used independentl
 
 Notebooks are numbered to reflect the recommended reading and execution order.
 
+Example outputs are stored in the `figures/` folder.
+
 ---
 
 ## 📂 Notebook Overview
@@ -40,6 +42,13 @@ Calculates and compares the annualized Sharpe Ratio of a stock and the S&P 500 t
 
 ---
 
+### `06_Drawdown_Analysis.ipynb`
+
+Performs an in-depth drawdown analysis of a financial time series, including drawdown calculation, event detection, duration analysis, and MAR ratio evaluation to assess downside risk.
+
+
+---
+
 ## 🎯 Target Audience
 
 These notebooks are designed for:
@@ -51,17 +60,18 @@ These notebooks are designed for:
 
 ---
 
-## 🚀 Future Extensions
-
-Planned additions include:
-
-* Drawdown Analysis
-
----
-
 ## 📌 Design Principles
 
 * Modular structure,
 * Transparent analytical logic,
 * Reproducible workflows,
 * Extensible for research and production use.
+
+---
+
+## 💡 Key Insights
+
+- S&P 500 vs stock performance over time
+- Risk-return profile comparisons
+- Drawdown and downside risk analysis
+- Sharpe ratio and MAR ratio metrics
